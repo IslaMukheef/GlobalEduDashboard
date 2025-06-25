@@ -19,11 +19,8 @@ This project contains an Excel dashboard analyzing global education data for 202
 - Built an interactive Excel dashboard with slicers for region and country filtering.
 
 ## How to Use
-Open the file `YourName_GlobalEduDashboard.xlsx` and use the `Dashboard` sheet to interact with the data. Use the slicers to filter by region or country and explore various metrics.
+Open the file `Group5_GlobalEduDashboard` and use the `Dashboard` sheet to interact with the data. Use the slicers to filter by region or country and explore various metrics.
 
-## Author
-Your Name  
-Your email or contact (optional)
 
 ## Date
 June 2025
